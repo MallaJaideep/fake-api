@@ -1,0 +1,90 @@
+{
+  "users1": [
+    {
+      "id": 1,
+      "FirstName": "Jaideep",
+      "LastName": "Malla",
+      "Email": "jaisriganesh2005@gmail.com",
+      "ContactNumber": 8500282005,
+      "Password": "jai2005",
+      "ConfirmPassword": "jai2005"
+    },
+    {
+      "id": 2,
+      "FirstName": "Ramesh",
+      "LastName": "Malla",
+      "Email": "Ramesh@gmail.com",
+      "ContactNumber": 9347253709,
+      "Password": "Ramesh",
+      "ConfirmPassword": "Ramesh"
+    },
+    {
+      "id": 3,
+      "FirstName": "Balaji",
+      "LastName": "Ayyan",
+      "Email": "Balaji@gmail.com",
+      "ContactNumber": 9133970170,
+      "Password": "Balaji",
+      "ConfirmPassword": "Balaji"
+    },
+    {
+      "id": 4,
+      "FirstName": "Gopi",
+      "LastName": "Malla",
+      "Email": "Gopi@gmail.com",
+      "ContactNumber": 7382832007,
+      "Password": "Gopi",
+      "ConfirmPassword": "Gopi"
+    },
+    {
+      "id": 6
+    },
+    {
+      "FirstName": "Post",
+      "LastName": "Man",
+      "Email": "Postman@gmail.com",
+      "ContactNumber": 1234567899,
+      "Password": "Postman",
+      "ConfirmPassword": "Postman",
+      "id": 7
+    }
+  ],
+  "users2": [
+    {
+      "id": 5,
+      "FirstName": "Jaideep",
+      "LastName": "Malla",
+      "Email": "jaisriganesh2005@gmail.com",
+      "ContactNumber": 8500282005,
+      "Password": "jai2005",
+      "ConfirmPassword": "jai2005"
+    },
+    {
+      "id": 6,
+      "FirstName": "Ramesh",
+      "LastName": "Malla",
+      "Email": "Ramesh@gmail.com",
+      "ContactNumber": 9347253709,
+      "Password": "Ramesh",
+      "ConfirmPassword": "Ramesh"
+    },
+    {
+      "id": 7,
+      "FirstName": "Balaji",
+      "LastName": "Ayyan",
+      "Email": "Balaji@gmail.com",
+      "ContactNumber": 9133970170,
+      "Password": "Balaji",
+      "ConfirmPassword": "Balaji"
+    },
+    {
+      "id": 8,
+      "FirstName": "Gopi",
+      "LastName": "Malla",
+      "Email": "Gopi@gmail.com",
+      "ContactNumber": 7382832007,
+      "Password": "Gopi",
+      "ConfirmPassword": "Gopi"
+    }
+  ]
+}
