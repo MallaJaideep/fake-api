@@ -1,11 +1,19 @@
 {
   "name": "fake-api",
   "version": "1.0.0",
-  "description": "This is a fake api created by Jaideep",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MallaJaideep/fake-api.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MallaJaideep/fake-api/issues"
+  },
+  "homepage": "https://github.com/MallaJaideep/fake-api#readme"
 }
